@@ -100,18 +100,16 @@ Clona aquest repositori a la teva màquina local:
 
 ```bash
 git clone https://github.com/usuari/app_sencilla.git
-Navega fins al directori del projecte:
 ```
+Navega fins al directori del projecte:
 ```bash
 cd app_sencilla
-Instal·la les dependències:
 ```
-
+Instal·la les dependències:
 ```bash
 flutter pub get
-Executa l'aplicació:
 ```
-bash
+Executa l'aplicació:
 ```bash
 flutter run
 ```
