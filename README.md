@@ -3,12 +3,12 @@
 
 Descripció
 
-Aquesta aplicació és una app de demostració que integra les funcionalitats de registre d'usuaris, login, canvi de temes (clar/oscuro) i un slider d'imatges que rota automàticament. La informació de l'usuari es guarda localment mitjançant SharedPreferences, permetent que les credencials (correu electrònic i contrasenya) es mantinguin entre sessions. A més, la configuració del tema (clar/oscuro) es guarda i es gestiona amb Provider.
+Aquesta aplicació és una app de demostració que integra les funcionalitats de registre d'usuaris, login, canvi de temes (clar/oscuro) i un slider d'imatges que rota automàticament. La informació de l'usuari es guarda localment mitjançant SharedPreferences, permetent que les credencials (correu electrònic i contrasenya) es mantinguin entre sessions. A més, la configuració del tema (clar/fosc) es guarda i es gestiona amb Provider.
 
 Funcionalitats
 
 Login i Registre: Permet als usuaris registrar-se amb el seu correu electrònic i contrasenya, i iniciar sessió amb aquestes credencials.
-Temes (Clar/Oscuro): Canvi de tema (clar o fosc) que es guarda a les preferències de l'usuari.
+Temes (Clar/Fosc): Canvi de tema (clar o fosc) que es guarda a les preferències de l'usuari.
 Slider d'Imatges: Un slider que mostra imatges de plantes i rota automàticament, començant des de la segona imatge.
 Confetti: Quan es prem un botó, es mostren confetis per a celebrar l'acció.
 
