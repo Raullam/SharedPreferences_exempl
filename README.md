@@ -42,7 +42,7 @@ Les imatges es mostren amb un efecte de desplaçament suau.
 
 Quan l'usuari prem el botó de confetis, es mostren confetis a la pantalla per a celebrar l'acció.
 
-Com Ho Fem
+## Com Ho Fem
 
 1. SharedPreferences: Emmagatzematge Local
 SharedPreferences és una eina que permet guardar petites quantitats de dades localment, com el correu electrònic, la contrasenya i les preferències de l'usuari.
@@ -72,7 +72,7 @@ Quan l'usuari canvia la imatge manualment o el sistema fa una rotació automàti
 Utilitzem el paquet confetti per mostrar confetis quan l'usuari prem un botó. El controlador de confetis es gestiona a la pantalla d'inici i es dispara quan l'usuari fa clic en el botó de confetis.
 
 Estructura del Projecte
-
+```lib/
 lib/
 ├── main.dart            # Punt d'entrada de l'aplicació
 ├── pages/
@@ -85,7 +85,7 @@ lib/
 │   └── theme_provider.dart # Proveïdor per gestionar el tema
 └── widgets/
     └── imatge_slider.dart # Widget per al slider d'imatges
-
+```
     
 Dependències
 
@@ -97,25 +97,24 @@ confetti: Per mostrar confetis a la pantalla.
 ##Com executar l'app
 Clona aquest repositori a la teva màquina local:
 
-bash
-''''
+
+```bash
 git clone https://github.com/usuari/app_sencilla.git
 Navega fins al directori del projecte:
-'''
-bash
-
+```
+```bash
 cd app_sencilla
 Instal·la les dependències:
+```
 
-bash
-
+```bash
 flutter pub get
 Executa l'aplicació:
-
+```
 bash
-
+```bash
 flutter run
-
+```
 
 Contribució
 Si vols contribuir a aquesta aplicació, pots fer un fork d'aquest repositori, realitzar els canvis i enviar un pull request. Tots els comentaris i millores són benvinguts!
