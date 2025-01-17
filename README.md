@@ -3,7 +3,7 @@
 
 Descripció
 
-Aquesta aplicació és una app de demostració que integra les funcionalitats de registre d'usuaris, login, canvi de temes (clar/oscuro) i un slider d'imatges que rota automàticament. La informació de l'usuari es guarda localment mitjançant SharedPreferences, permetent que les credencials (correu electrònic i contrasenya) es mantinguin entre sessions. A més, la configuració del tema (clar/fosc) es guarda i es gestiona amb Provider.
+Aquesta aplicació és una app de demostració que integra les funcionalitats de registre d'usuaris, login, canvi de temes (clar/fosc) i un slider d'imatges que rota automàticament. La informació de l'usuari es guarda localment mitjançant SharedPreferences, permetent que les credencials (correu electrònic i contrasenya) es mantinguin entre sessions. A més, la configuració del tema (clar/fosc) es guarda i es gestiona amb Provider.
 
 Funcionalitats
 
