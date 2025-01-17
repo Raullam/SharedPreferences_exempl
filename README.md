@@ -1,5 +1,13 @@
 # app_sencilla
 
+## **Captures de Pantalla** 📸
+Captures de pantalla de l'aplicació en funcionament:
+![image](https://github.com/Raullam/SharedPreferences_exempl/blob/main/assets/App1.png)
+![image](https://github.com/Raullam/SharedPreferences_exempl/blob/main/assets/App2.png)
+![image](https://github.com/Raullam/SharedPreferences_exempl/blob/main/assets/App3.png)
+![image](https://github.com/Raullam/SharedPreferences_exempl/blob/main/assets/App4.png)
+
+
 
 Descripció
 
